@@ -27,7 +27,7 @@
 ### 📦 Очереди и интеграции
 
 <p align="left">
-  <img src="https://github.com/devicons/devicon/tree/master/icons/apachekafka/kafka-original-wordmark.svg" width="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" width="60"/>
   <img src="https://skillicons.dev/icons?i=rabbitmq" />
 </p>
 
@@ -47,9 +47,9 @@
 ---
 
 ## 🧠 Что изучаю сейчас
-- Архитектуру микросервисов  
-- Асинхронный Python  
-- Оптимизацию PostgreSQL  
+- Архитектуру микросервисов
+- Шаблоны проектирования  
+- Spring With Kotlin  
 - Advanced Go (context, concurrency patterns)  
 
 ---
