@@ -1,6 +1,6 @@
 <!-- Заглавный баннер -->
 <p align="center">
-  <img src="https://github.com/your-username/your-username/blob/main/assets/banner.png" alt="banner" width="100%" />
+  <img src="https://sun9-62.userapi.com/impg/Kin3XoSOVPyP5JYzlWVEgeDsTgOgS5vWFN690Q/x3EuiTvy83Q.jpg?size=960x384&amp;quality=95&amp;crop=0,0,2560,1024&amp;sign=3fec9be6689f88da31bbb85b86a031f2&amp;c_uniq_tag=_cwaMWVMqQoV6FmDC2Fg0S7T7E3Yuha6djptKsm-zk4&amp;type=helpers&quot" alt="banner" width="100%" />
 </p>
 
 <h1 align="center">Привет, я Олег 👋</h1>
