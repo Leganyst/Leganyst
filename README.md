@@ -27,7 +27,7 @@
 ### 📦 Очереди и интеграции
 
 <p align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kafka/kafka-original-wordmark.svg" width="60"/>
+  <img src="https://github.com/devicons/devicon/tree/master/icons/apachekafka/kafka-original-wordmark.svg" width="60"/>
   <img src="https://skillicons.dev/icons?i=rabbitmq" />
 </p>
 
