@@ -12,27 +12,17 @@
 
 ## 🧰 Стек технологий
 
-### 🐍 Backend
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,go,gin,kotlin,spring" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,go,kotlin,spring" />
+  <img src=https://gin-gonic.com/_astro/gin.D6H2T_2v_ZD2G7l.webp/ width="60" />
 </p>
-
-### 🗄 Базы данных и кэш
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,redis" />
 </p>
-
-### 📦 Очереди и интеграции
-
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" width="60"/>
   <img src="https://skillicons.dev/icons?i=rabbitmq" />
 </p>
-
-### 🛠 DevOps & инструменты
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions" />
 </p>
