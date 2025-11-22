@@ -14,17 +14,9 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,fastapi,go,kotlin,spring" />
-  <img width="60" src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" />
-</p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,redis" />
-</p>
-<p align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" width="60"/>
-  <img src="https://skillicons.dev/icons?i=rabbitmq" />
-</p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions" />
+  <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb" />
+  <img src="https://skillicons.dev/icons?i=rabbitmq,postman,nginx,linux" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,gitlab" />
 </p>
 
 ## 📊 GitHub статистика
