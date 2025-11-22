@@ -14,7 +14,7 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,fastapi,go,kotlin,spring" />
-  <img align="right" width="159px" src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" widtg="60" />
+  <img width="60" src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" />
 </p>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,redis" />
